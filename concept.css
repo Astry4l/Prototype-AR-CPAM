@@ -5,11 +5,13 @@ body {
   margin: 0px; 
   overflow: hidden;
 }
-
-border: 1px solid white;
+button{
+  border: 1px solid white;
   width: 1000px;
   height: 180px;
   border-radius: 10px;
   background-color: #ffffff;
   margin-top: 1520px;
   opacity: 0;
+}
+
