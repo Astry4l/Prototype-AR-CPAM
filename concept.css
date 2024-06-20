@@ -1,5 +1,7 @@
 body {
   background-image: url(assets/annonce\ concept.png);
   background-repeat: no-repeat;
-  background-size: cover;    
+  background-size: cover;  
+  margin: 0px; 
+  overflow: hidden;
 }
