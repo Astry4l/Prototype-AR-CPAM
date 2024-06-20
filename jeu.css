@@ -1,0 +1,15 @@
+button{
+  border: 1px solid white;
+  width: 10px;
+  height: 18px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  color: #0439A5;
+  font-size: 30px;
+}
+
+body {
+  background-image: url(assets/dent.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
