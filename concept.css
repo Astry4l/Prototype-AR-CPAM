@@ -1,3 +1,5 @@
 body {
-    background-image: url(assets/annonce concept.png);
+  background-image: url(assets/annonce\ concept.png);
+  background-repeat: no-repeat;
+  background-size: cover;    
 }
